@@ -1,1 +1,1 @@
-script #16#20
+script to reverse it input and script that displays all users ant their hom directories
