@@ -1,1 +1,2 @@
-script to reverse it input and script that displays all users ant their hom directories
+a command that finds all empty files and directories in the current directory and all sub-directories.
+a script that lists all the files with a .gif extension in the current directory and all its sub-directories
